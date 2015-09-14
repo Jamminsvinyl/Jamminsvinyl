@@ -66,7 +66,7 @@ var indexPos = 0;
 "Blue Bayou 	Linda Ronstadt",
 "Peg 	Steely Dan",
 "You Needed Me 	Anne Murray",
-"Shame 	Evelyn Champagne King",
+"Shame 	    Evelyn Champagne King",
 "Reminiscing 	Little River Band",
 "Count On Me 	Jefferson Starship",
 "Baby Hold On 	Eddie Money",
