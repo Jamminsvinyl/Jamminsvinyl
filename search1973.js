@@ -128,7 +128,7 @@ var indexPos = 0;
 "Birleşsin Bütün Eller	İlhan İrem",
 "Aşkın Kanunu	Esin Engin",
 "Koy Koy Koy	Tanju Okan",
-"Türküz Türkü Çağırırız	Mazhar - Fuat"
+"Türküz Türkü Çağırırız	Mazhar - Fuat",
 
   ];
 
@@ -259,7 +259,7 @@ var names = [
 "Birleşsin Bütün Eller",
 "Aşkın Kanunu",
 "Koy Koy Koy",
-"Türküz Türkü Çağırırız"
+"Türküz Türkü Çağırırız",
 
 
 
@@ -393,7 +393,7 @@ var names = [
 "İlhan İrem",
 "Esin Engin",
 "Tanju Okan",
-"Mazhar - Fuat"
+"Mazhar - Fuat",
 
 
 
