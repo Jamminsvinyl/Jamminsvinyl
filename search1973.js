@@ -130,9 +130,7 @@ var indexPos = 0;
 "Koy Koy Koy	Tanju Okan",
 "Türküz Türkü Çağırırız	Mazhar - Fuat"
 
- 
-
-    ];
+  ];
 
 var names = [
 
