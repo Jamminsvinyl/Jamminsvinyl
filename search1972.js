@@ -104,14 +104,14 @@ var indexPos = 0;
 "Get on the Good Foot 	James Brown",
 "Pop That Thang 	The Isley Brothers",
 "Senden Başka	Füsun Önal",
-"Taka Taka Tak  Füsun Önal",
+"Taka Taka Tak	Füsun Önal",
 "Ağlıyorum yine	Nilüfer",
 "Sen nerde ben orda	Kamuran Akkor",
 "Oy anam oy	Arda Kardeş",
 "Sevenlerin Kaderi 	Gönül Yazar",
 "Hayat boş	Kerem Yılmazer",
 "Darla Dirlada	Tanju Okan",
-"Yıllardan Sonra	Mehmet  Taneri"
+"Yıllardan Sonra	Mehmet  Taneri",
 
  
 
@@ -227,7 +227,7 @@ var names = [
 "Sevenlerin Kaderi ",
 "Hayat boş",
 "Darla Dirlada",
-"Yıllardan Sonra"
+"Yıllardan Sonra",
 
 
 
@@ -344,7 +344,7 @@ var names = [
 "Gönül Yazar",
 "Kerem Yılmazer",
 "Tanju Okan",
-"Mehmet  Taneri"
+"Mehmet  Taneri",
 
 
 
