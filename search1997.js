@@ -97,7 +97,7 @@ var indexPos = 0;
 "Coco Jambo 	Mr. President",
 "Twisted 	Keith Sweat",
 "Barbie Girl 	Aqua",
-"When You're Gone / "Free to Decide" 	The Cranberries",
+"When You're Gone / Free to Decide 	The Cranberries",
 "Let Me Clear My Throat 	DJ Kool",
 "I Like It 	The Blackout All-Stars",
 "You're Makin' Me High / Let It Flow 	Toni Braxton",
