@@ -306,150 +306,150 @@ var names = [
 
  var artist = [
 
-Ace of Base
-All-4-One
-Boyz II Men
-Céline Dion
-Mariah Carey
-Lisa Loeb and Nine Stories
-Toni Braxton
-Bryan Adams, Rod Stewart and Sting
-Ace of Base
-Ace of Base
-R. Kelly
-Janet Jackson
-Madonna
-Salt-n-Pepa and En Vogue
-John Mellencamp featuring Meshell Ndegeocello
-Mariah Carey
-Toni Braxton
-Elton John
-Prince
-Coolio
-Big Mountain
-Warren G featuring Nate Dogg
-Jon Secada
-Aaliyah
-Richard Marx
-Babyface
-Bryan Adams
-All-4-One
-Salt-n-Pepa
-Janet Jackson
-Collective Soul
-Michael Bolton
-Enigma
-Sheryl Crow
-Crash Test Dummies
-Tevin Campbell
-Da Brat
-Meat Loaf
-DRS
-10,000 Maniacs
-Us3
-Tag Team
-Melissa Etheridge
-Changing Faces
-Tevin Campbell
-Crystal Waters
-Mariah Carey
-Janet Jackson
-The Cranberries
-Beck
-Gin Blossoms
-Snoop Doggy Dogg
-Immature
-Bruce Springsteen
-Domino
-Luther Vandross and Mariah Carey
-Aaron Hall
-Xscape
-Warren G
-Jodeci
-2Pac
-Snoop Doggy Dogg
-Real McCoy
-R. Kelly
-69 Boyz
-Jimmy Cliff
-Babyface
-Aerosmith
-Xscape
-Aaliyah
-Meat Loaf
-Aerosmith
-Erasure
-Zhané
-Gabrielle
-Culture Beat
-Tom Petty and the Heartbreakers
-SWV
-Joshua Kadison
-Eternal
-Craig Mack
-Queen Latifah
-Seal
-Madonna
-Ini Kamoze
-Phil Collins
-Tim McGraw
-Heavy D & the Boyz
-The Four Seasons
-Tim McGraw
-Bon Jovi
-Melissa Etheridge
-Ahmad
-Bonnie Raitt
-General Public
-Tevin Campbell
-Haddaway
-Babyface
-Ice Cube featuring George Clinton
-Brandy
-Deniz Arcak
-Yeşim Salkım
-Umay Umay
-Feridun Düzağaç
-Ezginin Günlüğü
-Ercan Saatçi Ufuk
-Barış Manço
-Haluk Levent
-Suat Suna
-Grup Laçin
-Sertab Erener
-Sertab Erener
-Nalan
-Nalan
-Gökhan Kırdar
-Fatih Erkoç
-Tarkan
-Tarkan
-Tarkan
-Serdar Ortaç
-Çelik
-Çelik
-Soner Arıca
-Emel Müftüoğlu
-Yıldız Tilbe
-Yıldız Tilbe
-Erkan Oğur
-Moğollar
-Yonca Evcimik
-Mustafa Sandal
-Mustafa Sandal
-Ebru Gündeş
-Yeni Türkü
-Burak Kut
-Burak Kut
-Asya
-Alpay
-Demet
-Aşkın Nur Yengi
-Nilüfer
-Kenan Doğulu
-Bülent Ortaçgil
-Edip Akbayram
-Oya Bora
+"Ace of Base",
+"All-4-One",
+"Boyz II Men",
+"Céline Dion",
+"Mariah Carey",
+"Lisa Loeb and Nine Stories",
+"Toni Braxton",
+"Bryan Adams, Rod Stewart and Sting",
+"Ace of Base",
+"Ace of Base",
+"R. Kelly",
+"Janet Jackson",
+"Madonna",
+"Salt-n-Pepa and En Vogue",
+"John Mellencamp featuring Meshell Ndegeocello",
+"Mariah Carey",
+"Toni Braxton",
+"Elton John",
+"Prince",
+"Coolio",
+"Big Mountain",
+"Warren G featuring Nate Dogg",
+"Jon Secada",
+"Aaliyah",
+"Richard Marx",
+"Babyface",
+"Bryan Adams",
+"All-4-One",
+"Salt-n-Pepa",
+"Janet Jackson",
+"Collective Soul",
+"Michael Bolton",
+"Enigma",
+"Sheryl Crow",
+"Crash Test Dummies",
+"Tevin Campbell",
+"Da Brat",
+"Meat Loaf",
+"DRS",
+"10,000 Maniacs",
+"Us3",
+"Tag Team",
+"Melissa Etheridge",
+"Changing Faces",
+"Tevin Campbell",
+"Crystal Waters",
+"Mariah Carey",
+"Janet Jackson",
+"The Cranberries",
+"Beck",
+"Gin Blossoms",
+"Snoop Doggy Dogg",
+"Immature",
+"Bruce Springsteen",
+"Domino",
+"Luther Vandross and Mariah Carey",
+"Aaron Hall",
+"Xscape",
+"Warren G",
+"Jodeci",
+"2Pac",
+"Snoop Doggy Dogg",
+"Real McCoy",
+"R. Kelly",
+"69 Boyz",
+"Jimmy Cliff",
+"Babyface",
+"Aerosmith",
+"Xscape",
+"Aaliyah",
+"Meat Loaf",
+"Aerosmith",
+"Erasure",
+"Zhané",
+"Gabrielle",
+"Culture Beat",
+"Tom Petty and the Heartbreakers",
+"SWV",
+"Joshua Kadison",
+"Eternal",
+"Craig Mack",
+"Queen Latifah",
+"Seal",
+"Madonna",
+"Ini Kamoze",
+"Phil Collins",
+"Tim McGraw",
+"Heavy D & the Boyz",
+"The Four Seasons",
+"Tim McGraw",
+"Bon Jovi",
+"Melissa Etheridge",
+"Ahmad",
+"Bonnie Raitt",
+"General Public",
+"Tevin Campbell",
+"Haddaway",
+"Babyface",
+"Ice Cube featuring George Clinton",
+"Brandy",
+"Deniz Arcak",
+"Yeşim Salkım",
+"Umay Umay",
+"Feridun Düzağaç",
+"Ezginin Günlüğü",
+"Ercan Saatçi Ufuk",
+"Barış Manço",
+"Haluk Levent",
+"Suat Suna",
+"Grup Laçin",
+"Sertab Erener",
+"Sertab Erener",
+"Nalan",
+"Nalan",
+"Gökhan Kırdar",
+"Fatih Erkoç",
+"Tarkan",
+"Tarkan",
+"Tarkan",
+"Serdar Ortaç",
+"Çelik",
+"Çelik",
+"Soner Arıca",
+"Emel Müftüoğlu",
+"Yıldız Tilbe",
+"Yıldız Tilbe",
+"Erkan Oğur",
+"Moğollar",
+"Yonca Evcimik",
+"Mustafa Sandal",
+"Mustafa Sandal",
+"Ebru Gündeş",
+"Yeni Türkü",
+"Burak Kut",
+"Burak Kut",
+"Asya",
+"Alpay",
+"Demet",
+"Aşkın Nur Yengi",
+"Nilüfer",
+"Kenan Doğulu",
+"Bülent Ortaçgil",
+"Edip Akbayram",
+"Oya Bora",
 
 
 
