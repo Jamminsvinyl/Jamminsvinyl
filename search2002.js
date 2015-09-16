@@ -4,7 +4,7 @@ var indexPos = 0;
 	   var songs = [
 
 "How You Remind Me 	Nickelback"
-"Foolish    Ashanti"
+"Foolish 	Ashanti",
 "Hot in Herre 	Nelly"
 "Dilemma 	Nelly featuring Kelly Rowland"
 "Wherever You Will Go 	The Calling"
