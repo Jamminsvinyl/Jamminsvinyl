@@ -90,7 +90,7 @@ var indexPos = 0;
 "Just Kissed My Baby 	Meters",
 "Burn Rubber (Why You Wanna Hurt Me?) 	Gap Band",
 "Get the Funk Out of Ma Face 	Brothers Johnson",
-"Freddie's Dead (Theme from "Superfly") 	Curtis Mayfield",
+"Freddie's Dead (Theme from Superfly) 	Curtis Mayfield",
 "Upside Down (Inside Out) 	Diana Ross",
 "Lovely Day 	Bill Withers",
 "The Jam 	Graham Central Station",
