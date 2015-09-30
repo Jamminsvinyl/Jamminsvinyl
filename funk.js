@@ -7,7 +7,7 @@ var indexPos = 0;
 "Papa's Got a Brand New Bag 	James Brown & The Famous Flames",
 "Thank You (Falletinme Be Mice Elf Agin) 	Sly & The Family Stone",
 "Tear the Roof Off the Sucker/Give Up the Funk 	Parliament",
-"Theme from "Shaft" 	Isaac Hayes",
+"Theme from Shaft 	Isaac Hayes",
 "Superfly 	Curtis Mayfield",
 "Superstition 	Stevie Wonder",
 "Papa Was a Rollin' Stone 	The Temptations",
